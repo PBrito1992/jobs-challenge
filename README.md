@@ -1,4 +1,4 @@
-#Challenge description
+# Challenge description
 
 This challenge is an adaptation of the github-job-challenge published by [devChallenges](https://devchallenges.io/)
 
